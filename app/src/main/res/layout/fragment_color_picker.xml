@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <View
+        android:id="@+id/colorDisplay"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:background="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" >
+
+    </View>
+
+    <TextView
+        android:padding="8dp"
+        android:id="@+id/custom_picker_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        android:text="Low (R,G,B)"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/colorDisplay"
+        />
+
+    <include
+        android:id="@+id/slider_picker_red"
+        layout="@layout/model_slider_picker"
+        app:layout_constraintBottom_toTopOf="@id/slider_picker_blue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/custom_picker_title" />
+    <include
+        android:id="@+id/slider_picker_blue"
+        layout="@layout/model_slider_picker"
+        app:layout_constraintBottom_toTopOf="@id/slider_picker_green"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/slider_picker_red" />
+    <include
+        android:id="@+id/slider_picker_green"
+        layout="@layout/model_slider_picker"
+        app:layout_constraintBottom_toTopOf="@id/save_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/slider_picker_blue" />
+    <Button
+        android:id="@+id/save_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:backgroundTint="@color/pink_irresist"
+        android:text="Save"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/slider_picker_green"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ToDoSS5" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/blue_steel</item>
+        <item name="colorPrimaryVariant">@color/blue_steel</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->f
+        <item name="colorSecondary">@color/purple_pansy</item>
+        <item name="colorSecondaryVariant">@color/pink_irresist</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" >?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="background">@color/green_tea</item>
+    </style>
+</resources>

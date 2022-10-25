@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--For menu bar color changes-->
+    <item android:state_checked="true" android:color="@color/green_tea" />
+    <item android:state_checked="false" android:color="@color/white"/>
+</selector>

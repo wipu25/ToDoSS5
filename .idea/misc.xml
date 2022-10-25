@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../Desktop/AndroidStudioProjects/ToDoSS5/app/src/main/res/drawable/ic_person.xml" value="0.2255" />
+        <entry key="../../../Desktop/AndroidStudioProjects/ToDoSS5/app/src/main/res/drawable/ic_sort_24.xml" value="0.2265" />
+        <entry key="../../../Desktop/AndroidStudioProjects/ToDoSS5/app/src/main/res/layout-v28/fragment_add_item.xml" value="0.14361702127659576" />
+        <entry key="../../../Desktop/AndroidStudioProjects/ToDoSS5/app/src/main/res/layout/activity_main.xml" value="0.20364583333333333" />
+        <entry key="../../../Desktop/AndroidStudioProjects/ToDoSS5/app/src/main/res/layout/add_item_fragment.xml" value="0.2033514492753623" />
+        <entry key="../../../Desktop/AndroidStudioProjects/ToDoSS5/app/src/main/res/layout/bottom_sheet_sort_order.xml" value="0.44758227313006366" />
+        <entry key="../../../Desktop/AndroidStudioProjects/ToDoSS5/app/src/main/res/layout/epoxy_model_empty.xml" value="0.1911231884057971" />
+        <entry key="../../../Desktop/AndroidStudioProjects/ToDoSS5/app/src/main/res/layout/epoxy_model_loading.xml" value="0.3880208333333333" />
+        <entry key="../../../Desktop/AndroidStudioProjects/ToDoSS5/app/src/main/res/layout/fragment_add_category.xml" value="0.3630630493164062" />
+        <entry key="../../../Desktop/AndroidStudioProjects/ToDoSS5/app/src/main/res/layout/fragment_add_item.xml" value="0.3049911499023437" />
+        <entry key="../../../Desktop/AndroidStudioProjects/ToDoSS5/app/src/main/res/layout/fragment_category.xml" value="0.35280797101449274" />
+        <entry key="../../../Desktop/AndroidStudioProjects/ToDoSS5/app/src/main/res/layout/fragment_color_picker.xml" value="0.271286231884058" />
+        <entry key="../../../Desktop/AndroidStudioProjects/ToDoSS5/app/src/main/res/layout/fragment_home.xml" value="0.1681289672851563" />
+        <entry key="../../../Desktop/AndroidStudioProjects/ToDoSS5/app/src/main/res/layout/fragment_profile.xml" value="0.23324275362318841" />
+        <entry key="../../../Desktop/AndroidStudioProjects/ToDoSS5/app/src/main/res/layout/model_add_category_item.xml" value="0.3166061401367188" />
+        <entry key="../../../Desktop/AndroidStudioProjects/ToDoSS5/app/src/main/res/layout/model_category.xml" value="0.23324275362318841" />
+        <entry key="../../../Desktop/AndroidStudioProjects/ToDoSS5/app/src/main/res/layout/model_empty_button.xml" value="0.23324275362318841" />
+        <entry key="../../../Desktop/AndroidStudioProjects/ToDoSS5/app/src/main/res/layout/model_header_item.xml" value="0.28360670891360973" />
+        <entry key="../../../Desktop/AndroidStudioProjects/ToDoSS5/app/src/main/res/layout/model_item_entity.xml" value="0.26625386996904027" />
+        <entry key="../../../Desktop/AndroidStudioProjects/ToDoSS5/app/src/main/res/layout/model_priority_color_item.xml" value="0.3691983122362869" />
+        <entry key="../../../Desktop/AndroidStudioProjects/ToDoSS5/app/src/main/res/layout/model_slider_picker.xml" value="0.3880208333333333" />
+        <entry key="../../../Desktop/AndroidStudioProjects/ToDoSS5/app/src/main/res/layout/model_sort_order_item.xml" value="0.5036190972811934" />
+        <entry key="../../../Desktop/AndroidStudioProjects/ToDoSS5/app/src/main/res/menu/menu_bottom_bar.xml" value="0.224139404296875" />
+        <entry key="../../../Desktop/AndroidStudioProjects/ToDoSS5/app/src/main/res/menu/menu_home_fragment.xml" value="0.2953125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.20014557769333108" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

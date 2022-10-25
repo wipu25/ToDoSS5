@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToDoSS5</string>
+    <string name="item_title">Title</string>
+    <string name="item_description">Description</string>
+    <string name="item_priority">!</string>
+    <string name="item_header">Header</string>
+    <string name="priority_header">Header</string>
+    <string name="empty_header">WOW no task at all</string>
+    <string name="empty_description">Please add some task by pressing +</string>
+</resources>
